@@ -280,4 +280,5 @@ workflow for details on how to build the packages and all dependencies.
 update ompl 1.6
 fix coredump when plan fail
 add abit
+add eit
 
